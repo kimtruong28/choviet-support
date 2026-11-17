@@ -1,0 +1,182 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chính sách quyền riêng tư - Chợ Việt Korea</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont,
+        "Segoe UI", Arial, sans-serif;
+      background: #f6f7f9;
+      color: #242424;
+      line-height: 1.7;
+    }
+    header {
+      background: #d71920;
+      color: white;
+      text-align: center;
+      padding: 35px 20px;
+    }
+    main {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 30px;
+      background: white;
+      border-radius: 12px;
+    }
+    h2 { margin-top: 30px; }
+    a { color: #b51219; }
+    footer {
+      text-align: center;
+      padding: 25px;
+      color: #666;
+    }
+    @media (max-width: 600px) {
+      main { margin: 12px; padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Chợ Việt Korea</h1>
+  <p>Chính sách quyền riêng tư</p>
+</header>
+
+<main>
+  <p><strong>Cập nhật: 17/11/2026</strong></p>
+
+  <h2>1. Giới thiệu</h2>
+  <p>
+    Chợ Việt Korea là ứng dụng kết nối cộng đồng
+    người Việt tại Hàn Quốc, hỗ trợ đăng tin,
+    tìm kiếm sản phẩm và trao đổi mua bán.
+    Chúng tôi tôn trọng quyền riêng tư của người dùng.
+  </p>
+
+  <h2>2. Thông tin được thu thập</h2>
+  <p>
+    Tùy theo chức năng sử dụng, ứng dụng có thể
+    thu thập hoặc xử lý:
+  </p>
+  <ul>
+    <li>Họ tên, email, số điện thoại và thông tin tài khoản.</li>
+    <li>Thông tin tin đăng, sản phẩm, giá và hình ảnh.</li>
+    <li>Thông tin đơn hàng và giao dịch.</li>
+    <li>Nội dung trao đổi giữa người mua và người bán.</li>
+    <li>Thông tin kỹ thuật cần thiết để vận hành ứng dụng.</li>
+    <li>Trạng thái và thông tin xác minh gói thành viên người bán.</li>
+  </ul>
+
+  <h2>3. Mục đích sử dụng dữ liệu</h2>
+  <ul>
+    <li>Đăng ký và quản lý tài khoản.</li>
+    <li>Đăng tải và quản lý tin mua bán.</li>
+    <li>Kết nối người mua với người bán.</li>
+    <li>Hỗ trợ quản lý đơn hàng và giải quyết tranh chấp.</li>
+    <li>Xác minh quyền sử dụng gói thành viên.</li>
+    <li>Bảo mật, ngăn chặn gian lận và xử lý lỗi.</li>
+  </ul>
+
+  <h2>4. Nội dung người dùng đăng tải</h2>
+  <p>
+    Người dùng chịu trách nhiệm về nội dung mình đăng,
+    bao gồm quyền sử dụng hình ảnh và thông tin sản phẩm.
+    Các thông tin công khai trong tin đăng có thể được
+    hiển thị cho người dùng khác.
+  </p>
+
+  <h2>5. Dịch vụ bên thứ ba</h2>
+  <p>
+    Ứng dụng sử dụng các dịch vụ Google Firebase
+    để hỗ trợ xác thực tài khoản, lưu trữ và
+    vận hành các chức năng tương ứng.
+  </p>
+  <p>
+    Giao dịch đăng ký thành viên trên iOS được
+    xử lý thông qua hệ thống mua hàng của Apple.
+    Ứng dụng có thể nhận dữ liệu xác minh giao dịch
+    và trạng thái đăng ký.
+  </p>
+  <p>
+    Hiện tại, ứng dụng không hiển thị quảng cáo
+    Google AdMob.
+  </p>
+
+  <h2>6. Thanh toán và giao dịch</h2>
+  <p>
+    Người mua và người bán có thể thực hiện
+    thanh toán trực tiếp theo phương thức được hỗ trợ.
+    Chợ Việt Korea xử lý thông tin đơn hàng cần thiết
+    để hỗ trợ hoạt động giao dịch.
+  </p>
+
+  <h2>7. Chia sẻ thông tin</h2>
+  <p>
+    Chúng tôi không bán thông tin cá nhân.
+    Thông tin có thể được chia sẻ với các bên
+    tham gia giao dịch, nhà cung cấp dịch vụ kỹ thuật
+    hoặc cơ quan có thẩm quyền khi pháp luật yêu cầu.
+  </p>
+
+  <h2>8. Bảo mật</h2>
+  <p>
+    Chúng tôi áp dụng các biện pháp bảo mật phù hợp
+    nhằm hạn chế truy cập trái phép, thất thoát
+    hoặc tiết lộ thông tin cá nhân.
+  </p>
+
+  <h2>9. Lưu trữ và xóa dữ liệu</h2>
+  <p>
+    Dữ liệu được lưu giữ trong thời gian cần thiết
+    để cung cấp dịch vụ và thực hiện nghĩa vụ pháp lý.
+    Người dùng có thể yêu cầu chỉnh sửa hoặc xóa
+    thông tin cá nhân và tài khoản.
+    Một số hồ sơ giao dịch có thể phải được lưu giữ
+    theo quy định pháp luật.
+  </p>
+
+  <h2>10. Quyền của người dùng</h2>
+  <p>
+    Người dùng có thể yêu cầu truy cập, chỉnh sửa,
+    xóa dữ liệu đủ điều kiện hoặc gửi câu hỏi
+    về việc xử lý thông tin cá nhân.
+  </p>
+
+  <h2>11. Quyền riêng tư của trẻ em</h2>
+  <p>
+    Chúng tôi không chủ đích thu thập dữ liệu
+    của trẻ em trái với pháp luật áp dụng.
+  </p>
+
+  <h2>12. Thay đổi chính sách</h2>
+  <p>
+    Chính sách có thể được cập nhật khi ứng dụng
+    thay đổi chức năng hoặc có yêu cầu pháp lý mới.
+    Ngày cập nhật sẽ được công bố trên trang này.
+  </p>
+
+  <h2>13. Liên hệ</h2>
+  <p>
+    <strong>Đơn vị vận hành:</strong>
+    ISAAC STUDIO (이삭스튜디오)
+  </p>
+  <p>
+    <strong>Email hỗ trợ:</strong>
+    [THAY BẰNG EMAIL HỖ TRỢ CHÍNH THỨC]
+  </p>
+  <p>
+    <strong>Website:</strong>
+    <a href="https://kimtruong28.github.io/choviet-support/">
+      Trung tâm hỗ trợ Chợ Việt Korea
+    </a>
+  </p>
+</main>
+
+<footer>
+  © 2026 Chợ Việt Korea
+</footer>
+</body>
+</html>
